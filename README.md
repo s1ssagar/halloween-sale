@@ -1,0 +1,1 @@
+Solution to HackerRank "halloween-sale" problem in hourrank-23
